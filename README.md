@@ -1,11 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87CEEB&height=180&section=header&text=SUBZERO-MD%20WHATSAPP%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
 
 <p align="center">
-  <h1 align="center"> SUBZERO-MD </h1>
+  <h1 align="center">❄️ SUBZERO-MD ❄️</h1>
 </p>
 
   <p align="center">
-<a href="https://github.com/mrfr8nk/SUBZERO-MD/followers"><img title="Followers" src="https://img.shields.io/github/followers/mrfr8nk?color=blue&style=flat-square"></a>
+<a href="https://github.com/mrfr8nk/followers"><img title="Followers" src="https://img.shields.io/github/followers/mrfr8nk?color=blue&style=flat-square"></a>
 <a href="https://github.com/mrfr8nk/SUBZERO-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mrfr8nk/SUBZERO-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/mrfr8nk/SUBZERO-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mrfr8nk/SUBZERO-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/mrfr8nk/SUBZERO-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/mrfr8nk/SUBZERO-MD?style=flat-square&color=green"></a>
@@ -37,7 +37,7 @@ Dont forget to fork  & star  repo
 ***
 
 <p align="center">
-  <a href="https://github.com/mrfr8nk/SUBZERO-MD"><img title="Developer" src="https://img.shields.io/badge/Author-Mr%20Frank-397604.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/mrfr8nk"><img title="Developer" src="https://img.shields.io/badge/Author-Mr%20Frank-397604.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
 <div align="center">
@@ -70,16 +70,16 @@ Start by forking this repository to your own GitHub account. Click the button be
 
 You will need a session ID to run the SUBZERO-MD. Click the button below to obtain your session ID.if any error in loading site try vpn:
 
-> **1Pair Code (Session ID)**
+> **1 Pair Code (Session ID)**
 
-<a href='https://SUBZERO-MD.koyeb.app/' target="_blank">
+<a href='https://sobzero.onrender.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
 
-> **2Pair Code (Session ID)**
+> **2 Pair Code (Session ID)**
 
-<a href='https://SUBZERO-MD-pair5.onrender.com/' target="_blank">
+<a href='https://SUBZERO-MD-pair5.onrender.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
@@ -123,7 +123,7 @@ You will see a dashboard of bots listed
 
 
 Click next , next
-Until you see SUBZERO-MD MD
+Until you see SUBZERO-MD 
 Then click on it
 
 You will be asked to fill in some stuffs like your session Id , and other stuffs on how you want your bot to be ( bot settings ) , it's not hard I added examples

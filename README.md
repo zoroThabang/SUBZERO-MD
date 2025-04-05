@@ -63,8 +63,11 @@ Dont forget to fork  & star  repo
 ### 1. Fork This Repository
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
-<a href="https://github.com/mrfrankofcc/SUBZERO-MD/fork"><img title="SUBZERO-MD" src="https://img.shields.io/badge/FORK-SUBZERO-MD-BOT?color=blue&style=for-the-badge&logo=stackshare"></a>
-  
+
+<a href='https://github.com/mrfrankofcc/SUBZERO-MD' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
+</a>
+
 ### 2. Get Session ID 
 
 You will need a session ID to run the SUBZERO-MD. Click the button below to obtain your session ID.if any error in loading site try vpn:

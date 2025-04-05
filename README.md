@@ -6,8 +6,8 @@
 
   <p align="center">
 <a href="https://github.com/mrfr8nk/followers"><img title="Followers" src="https://img.shields.io/github/followers/mrfr8nk?color=blue&style=flat-square"></a>
-<a href="https://github.com/mrfrankofcc/SUBZERO-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mrfr8nk/SUBZERO-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/mrfrankofcc/SUBZERO-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mrfr8nk/SUBZERO-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/mrfrankofcc/SUBZERO-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mrfrankofcc/SUBZERO-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/mrfrankofcc/SUBZERO-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mrfrankofcc/SUBZERO-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/mrfrankofcc/SUBZERO-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/mrfr8nk/SUBZERO-MD?style=flat-square&color=green"></a>
 <a href="https://github.com/mrfrankofcc/SUBZERO-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
@@ -48,13 +48,13 @@ Dont forget to fork  & star  repo
  <p align="center"><img src="https://profile-counter.glitch.me/{SUBZERO-MD}/count.svg" alt="mrfrank-ofc :: Visitor's Count" old_src="https://profile-counter.glitch.me/{mrfrank-ofc}/count.svg" /></p>
 
 <p align="center">
-<a href="https://github.com/mrfr8nk/SUBZERO-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
+<a href="https://github.com/mrfrankofcc/SUBZERO-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
   <img src="https://komarev.com/ghpvc/?username=SUBZERO-MD&label=VIEWS&style=flat-square&color=blue" />
 </p>
 </p> 
 
 <p align="center">
-  <a href="https://github.com/mrfr8nk/SUBZERO-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v2.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/mrfrankofcc/SUBZERO-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v2.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 

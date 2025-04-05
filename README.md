@@ -6,10 +6,10 @@
 
   <p align="center">
 <a href="https://github.com/mrfr8nk/followers"><img title="Followers" src="https://img.shields.io/github/followers/mrfr8nk?color=blue&style=flat-square"></a>
-<a href="https://github.com/mrfr8nk/SUBZERO-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mrfr8nk/SUBZERO-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/mrfr8nk/SUBZERO-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mrfr8nk/SUBZERO-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/mrfr8nk/SUBZERO-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/mrfr8nk/SUBZERO-MD?style=flat-square&color=green"></a>
-<a href="https://github.com/mrfr8nk/SUBZERO-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/mrfrankofcc/SUBZERO-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mrfr8nk/SUBZERO-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/mrfrankofcc/SUBZERO-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mrfr8nk/SUBZERO-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/mrfrankofcc/SUBZERO-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/mrfr8nk/SUBZERO-MD?style=flat-square&color=green"></a>
+<a href="https://github.com/mrfrankofcc/SUBZERO-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
@@ -23,7 +23,7 @@ Dont forget to fork  & star  repo
 ---
 
 <p align="center">
-  <a href="https://github.com/mrfr8nk/SUBZERO-MD">
+  <a href="https://github.com/mrfrankofcc/SUBZERO-MD">
     <img src="http://readme-typing-svg.herokuapp.com?color=blue&center=true&vCenter=true&multiline=false&lines=SUBZERO-MD-+MultiDevice;Developed+by+Mr+Frank;Give+star+and+fork+this+Repo+bro+" alt="mrfrankReadme">
   </a>
 </p>
@@ -64,20 +64,20 @@ Dont forget to fork  & star  repo
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/mrfr8nk/SUBZERO-MD/fork"><img title="SUBZERO-MD" src="https://img.shields.io/badge/FORK-SUBZERO-MD-BOTh?color=blue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/mrfrankofcc/SUBZERO-MD/fork"><img title="SUBZERO-MD" src="https://img.shields.io/badge/FORK-SUBZERO-MD-BOTh?color=blue&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. Get Session ID 
 
 You will need a session ID to run the SUBZERO-MD. Click the button below to obtain your session ID.if any error in loading site try vpn:
 
-> **1 Pair Code (Session ID)**
+> **Pair Code (Session ID)**
 
 <a href='https://sobzero.onrender.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
 
-> **2 Pair Code (Session ID)**
+> **Pair Code (Session ID)**
 
 <a href='https://SUBZERO-MD-pair5.onrender.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
@@ -94,7 +94,7 @@ You will need a session ID to run the SUBZERO-MD. Click the button below to obta
 <p style="text-align: center; font-size: 1.2em;">
 
 <p align="center">
-<a href='https://dashboard.heroku.com/new?template=https://github.com/mrfr8nk/SUBZERO-MD/tree/main' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku  deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/mrfrankofcc/SUBZERO-MD/tree/main' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku  deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
 
 ----------
 
@@ -151,7 +151,7 @@ That's all bot connected
 <p style="text-align: center; font-size: 1.2em;">
 
 <p align="center">
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=mrfr8nk/SUBZERO-MD&ports=3000&env[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20SUBZERO-MD&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb  deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://app.koyeb.com/services/deploy?type=git&repository=mrfrankofcc/SUBZERO-MD&ports=3000&env[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20SUBZERO-MD&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb  deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
 
 -----
 <h4 align="center">4. Railway</h4>

@@ -8,7 +8,7 @@
 <a href="https://github.com/mrfr8nk/followers"><img title="Followers" src="https://img.shields.io/github/followers/mrfr8nk?color=blue&style=flat-square"></a>
 <a href="https://github.com/mrfrankofcc/SUBZERO-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mrfrankofcc/SUBZERO-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/mrfrankofcc/SUBZERO-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mrfrankofcc/SUBZERO-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/mrfrankofcc/SUBZERO-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/mrfrankofc/SUBZERO-MD?style=flat-square&color=green"></a>
+<a href="https://github.com/mrfrankofcc/SUBZERO-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/mrfrankofcc/SUBZERO-MD?style=flat-square&color=green"></a>
 <a href="https://github.com/mrfrankofcc/SUBZERO-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>

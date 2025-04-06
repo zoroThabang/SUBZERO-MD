@@ -66,8 +66,8 @@ Dont forget to fork & star repo
 ### <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/keyicon.gif?raw=true" width="25"/> 2. Get Session ID
   
 <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #00ffff;">
-  <p style="color: #ff00ff;">Session ID required for running bot:</p>
   
+--- 
   > **⚠️ OPTION ONE**
   <a href='https://zaynixxd.biz.id/' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_1-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
@@ -79,7 +79,7 @@ Dont forget to fork & star repo
   <a href='https://subzero-md.koyeb.app' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_2-FF00AA?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a>
-  
+  ---
   <p style="color: #aaaaaa; font-size: 12px; margin-top: 10px;">
     <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/warning.gif?raw=true" width="15"/> 
     Connection issues may require VPN activation

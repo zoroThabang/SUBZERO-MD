@@ -26,7 +26,7 @@
 ---
 
 ```
-Dont forget to fork  & star  repo
+Dont forget to fork & star repo
 ```
 
 ---
@@ -66,21 +66,21 @@ Dont forget to fork  & star  repo
   <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/techwave.gif?raw=true" width="100%"/>
 </div>
 
-## 🌌 Futuristic Features Preview
+## 🌌 Features Preview
 
 ```bash
-✦ Next-Gen AI Integration
-✦ Quantum-Level Speed
-✦ Holographic UI
-✦ Neural Network Processing
-✦ Cyberpunk Themed
+✦ Antidelete, Antiviewonce, Antilink
+✦ High speed YT, Tiktok, FB, IG Downloaders
+✦ 10+ AI models + Image anlysis AI
+✦ Fast low latensie, Powerful
+✦ Futuristic Cool ICY UI
 ```
 
 <div align="center">
   <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/cyberdivider.gif?raw=true" width="100%"/>
 </div>
 
-## 📡 Futuristic Connection Hub
+## 📡  SUPPORT CHANNELS
 
 <div align="center">
   <a href="https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1D">
@@ -92,7 +92,7 @@ Dont forget to fork  & star  repo
   <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/neonpulse.gif?raw=true" width="300"/>
 </div>
 
-## ⚠️ Futuristic Warning System
+## ⚠️ Warning !
 
 <div style="background-color: #000000; border-left: 5px solid #ff00ff; padding: 10px; border-radius: 0 15px 15px 0; box-shadow: 0 0 15px #ff00ff;">
   <h3 style="color: #00ffff; font-family: 'Orbitron', sans-serif;">DISCLAIMER</h3>
@@ -120,7 +120,7 @@ Dont forget to fork  & star  repo
 ```diff
 + Project Status: Active
 ! Version: 3.2.0 Neon Edition
-# License: MIT
+# License: APACHE
 ```
 
 <div align="center">

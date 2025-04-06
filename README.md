@@ -175,5 +175,5 @@ Dont forget to fork & star repo
 <div align="center">
   <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/endwave.gif?raw=true" width="100%"/>
 </div>
-```
+
 

@@ -46,16 +46,16 @@ Dont forget to fork & star repo
   <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/deployheader.gif?raw=true" width="80%"/>
 </div>
 
-## 🚀 CyberDeployment Protocol
+## 🚀 Steps To Deploy SUBZERO
 
 <div style="background: #000000; border: 1px solid #00ffff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #00ffff; margin-bottom: 30px;">
   
 ### <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/forkicon.gif?raw=true" width="25"/> 1. Fork This Repository
   
 <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #ff00ff;">
-  <p style="color: #00ffff;">Initiate repository fork sequence to your GitHub account:</p>
-  <a href='https://github.com/mrfrankofcc/SUBZERO-MD' target="_blank">
-    <img src='https://img.shields.io/badge/EXECUTE_FORK_SEQUENCE-FF5500?style=for-the-badge&logo=github&logoColor=white&labelColor=000000'/>
+  <p style="color: #00ffff;">First star & Fork repo using button Below !</p>
+  <a href='https://github.com/mrfrankofcc/SUBZERO-MD/fork' target="_blank">
+    <img src='https://img.shields.io/badge/FORK_REPOSITORY-FF5500?style=for-the-badge&logo=github&logoColor=white&labelColor=000000'/>
   </a>
 </div>
 
@@ -63,21 +63,21 @@ Dont forget to fork & star repo
 
 <div style="background: #000000; border: 1px solid #ff00ff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #ff00ff; margin-bottom: 30px;">
 
-### <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/keyicon.gif?raw=true" width="25"/> 2. Acquire Session ID
+### <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/keyicon.gif?raw=true" width="25"/> 2. Get Session ID
   
 <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #00ffff;">
-  <p style="color: #ff00ff;">Authentication token required for system access:</p>
+  <p style="color: #ff00ff;">Session ID required for running bot:</p>
   
-  > **⚠️ Primary Access Node**
-  <a href='https://sobzero.onrender.com' target="_blank">
+  > **⚠️ OPTION ONE**
+  <a href='https://zaynixxd.biz.id/' target="_blank">
     <img src='https://img.shields.io/badge/ACCESS_NODE_ALPHA-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a>
   
   <div style="height: 10px;"></div>
   
-  > **⚠️ Backup Access Node**
-  <a href='https://SUBZERO-MD-pair5.onrender.com' target="_blank">
-    <img src='https://img.shields.io/badge/ACCESS_NODE_BETA-FF00AA?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
+  > **⚠️ BACKUP OPTION TWO**
+  <a href='https://subzero-md.koyeb.app' target="_blank">
+    <img src='https://img.shields.io/badge/PAIR_CODE_2-FF00AA?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a>
   
   <p style="color: #aaaaaa; font-size: 12px; margin-top: 10px;">

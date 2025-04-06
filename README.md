@@ -75,10 +75,11 @@ Dont forget to fork & star repo
   
   <div style="height: 10px;"></div>
   
-  > **⚠️ BACKUP OPTION TWO**
+  > **⚠️ OPTION TWO**
   <a href='https://subzero-md.koyeb.app' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_2-FF00AA?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a>
+  
   ---
   <p style="color: #aaaaaa; font-size: 12px; margin-top: 10px;">
     <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/warning.gif?raw=true" width="15"/> 

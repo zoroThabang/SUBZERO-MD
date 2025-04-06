@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87CEEB&height=180&section=header&text=SUBZERO-MD%20WHATSAPP%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
+
 
 <p align="center">
   <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">SUBZERO-MD</h1>
@@ -26,7 +26,7 @@
 ---
 
 ```
-Dont forget to fork & star repo
+Dont forget to fork & star repo
 ```
 
 ---
@@ -43,7 +43,7 @@ Dont forget to fork & star repo
   <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/divider.gif?raw=true" width="100%"/>
 </div>
 
-## 🚀 Deployment Options
+## 🚀 DEPLOYMENT OPTIONS
 
 <div align="center">
   <table>
@@ -66,7 +66,7 @@ Dont forget to fork & star repo
   <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/techwave.gif?raw=true" width="100%"/>
 </div>
 
-## 🌌 Features Preview
+## 🌟 BOT FEATURES
 
 ```bash
 ✦ Antidelete, Antiviewonce, Antilink
@@ -80,7 +80,7 @@ Dont forget to fork & star repo
   <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/cyberdivider.gif?raw=true" width="100%"/>
 </div>
 
-## 📡  SUPPORT CHANNELS
+## 📡  SUPPORT CHANNEL
 
 <div align="center">
   <a href="https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1D">
@@ -92,7 +92,7 @@ Dont forget to fork & star repo
   <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/neonpulse.gif?raw=true" width="300"/>
 </div>
 
-## ⚠️ Warning !
+## ⚠️ WARNING !
 
 <div style="background-color: #000000; border-left: 5px solid #ff00ff; padding: 10px; border-radius: 0 15px 15px 0; box-shadow: 0 0 15px #ff00ff;">
   <h3 style="color: #00ffff; font-family: 'Orbitron', sans-serif;">DISCLAIMER</h3>
@@ -103,8 +103,7 @@ Dont forget to fork & star repo
   <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/digitalrain.gif?raw=true" width="100%"/>
 </div>
 
-## 👽 Project Architects
-
+## 🧑‍💻 PROJECT ARCHITECTS
 <div align="center">
   <a href="https://github.com/mrfr8nk">
     <img src="https://github-readme-stats.vercel.app/api?username=mrfr8nk&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" width="400"/>
@@ -115,7 +114,7 @@ Dont forget to fork & star repo
   <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
 </div>
 
-## 🌠 Closing Transmission
+## 🤖 SUBZERO STATUS
 
 ```diff
 + Project Status: Active

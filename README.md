@@ -42,36 +42,55 @@ Dont forget to fork & star repo
 <div align="center">
   <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/divider.gif?raw=true" width="100%"/>
 </div>
+<div align="center">
+  <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/deployheader.gif?raw=true" width="80%"/>
+</div>
 
-***
+## 🚀 CyberDeployment Protocol
 
-### 1. Fork This Repository
+<div style="background: #000000; border: 1px solid #00ffff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #00ffff; margin-bottom: 30px;">
+  
+### <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/forkicon.gif?raw=true" width="25"/> 1. Fork This Repository
+  
+<div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #ff00ff;">
+  <p style="color: #00ffff;">Initiate repository fork sequence to your GitHub account:</p>
+  <a href='https://github.com/mrfrankofcc/SUBZERO-MD' target="_blank">
+    <img src='https://img.shields.io/badge/EXECUTE_FORK_SEQUENCE-FF5500?style=for-the-badge&logo=github&logoColor=white&labelColor=000000'/>
+  </a>
+</div>
 
-Start by forking this repository to your own GitHub account. Click the button below to fork:
+</div>
 
-<a href='https://github.com/mrfrankofcc/SUBZERO-MD' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
-</a>
+<div style="background: #000000; border: 1px solid #ff00ff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #ff00ff; margin-bottom: 30px;">
 
-### 2. Get Session ID 
+### <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/keyicon.gif?raw=true" width="25"/> 2. Acquire Session ID
+  
+<div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #00ffff;">
+  <p style="color: #ff00ff;">Authentication token required for system access:</p>
+  
+  > **⚠️ Primary Access Node**
+  <a href='https://sobzero.onrender.com' target="_blank">
+    <img src='https://img.shields.io/badge/ACCESS_NODE_ALPHA-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
+  </a>
+  
+  <div style="height: 10px;"></div>
+  
+  > **⚠️ Backup Access Node**
+  <a href='https://SUBZERO-MD-pair5.onrender.com' target="_blank">
+    <img src='https://img.shields.io/badge/ACCESS_NODE_BETA-FF00AA?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
+  </a>
+  
+  <p style="color: #aaaaaa; font-size: 12px; margin-top: 10px;">
+    <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/warning.gif?raw=true" width="15"/> 
+    Connection issues may require VPN activation
+  </p>
+</div>
 
-You will need a session ID to run the SUBZERO-MD. Click the button below to obtain your session ID.if any error in loading site try vpn:
+</div>
 
-> **Pair Code (Session ID)**
-
-<a href='https://sobzero.onrender.com' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
-</a>
-<br> 
-
-> **Pair Code (Session ID)**
-
-<a href='https://SUBZERO-MD-pair5.onrender.com' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
-</a>
-<br> 
-
----
+<div align="center">
+  <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/techwave.gif?raw=true" width="80%"/>
+</div>
 
 ## 🚀 DEPLOYMENT OPTIONS
 

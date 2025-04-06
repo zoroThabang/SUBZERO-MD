@@ -21,8 +21,7 @@
   <img src="https://komarev.com/ghpvc/?username=SUBZERO-MD&label=VISITORS&style=flat-square&color=00ffff" />
 </p>
 
-> **Current Bot Version  `3.2.0`**  
-> **Neon Glow Edition** ✨
+> **Current Bot Version `3.2.0`**  
 
 ---
 
@@ -44,7 +43,7 @@ Dont forget to fork  & star  repo
   <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/divider.gif?raw=true" width="100%"/>
 </div>
 
-## 🚀 Futuristic Deployment Options
+## 🚀 Deployment Options
 
 <div align="center">
   <table>

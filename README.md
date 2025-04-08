@@ -130,16 +130,26 @@ Dont forget to fork & star repo
   <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/cyberdivider.gif?raw=true" width="100%"/>
 </div>
 
-## 📡  SUPPORT CHANNEL
+## 🌐 **SOCIAL MEDIA & SUPPORT**
 
 <div align="center">
-  <a href="https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1D">
-    <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/>
-  </a>
-</div>
 
-<div align="center">
-  <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/neonpulse.gif?raw=true" width="300"/>
+### 🚀 **Connect With Me**
+  
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@mrfr4nk)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mrfrankofc)
+[![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/mrfr4nk)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/mrfrankofc)
+[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/mrfrankofc)
+
+<img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/cyberdivider.gif?raw=true" width="100%"/>
+
+### 📢 **Official Support Channel**
+  
+[![WhatsApp Channel](https://img.shields.io/badge/Join_WhatsApp_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1D)
+
+<img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/neonpulse.gif?raw=true" width="300"/>
+
 </div>
 
 ## ⚠️ WARNING !

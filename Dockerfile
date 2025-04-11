@@ -6,15 +6,15 @@ USER root
 
 # Install system dependencies with retry logic (fixes apt-get failures)
 RUN for i in {1..5}; do \
-      apt-get update && \
-      apt-get install -y --no-install-recommends \
-        ffmpeg \
-        webp \
-        git \
-        libavcodec-extra \  # Extra codecs for FFmpeg
-        && apt-get clean \
-        && rm -rf /var/lib/apt/lists/* \
-        && break || sleep 15; \
+        apt-get update && \
+        apt-get install -y --no-install-recommends \
+            ffmpeg \
+            webp \
+            git \
+            libavcodec-extra && \  # Extra codecs for FFmpeg
+        apt-get clean && \
+        rm -rf /var/lib/apt/lists/* && \
+        break || sleep 15; \
     done
 
 # Switch to non-root user

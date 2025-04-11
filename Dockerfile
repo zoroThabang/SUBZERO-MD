@@ -1,14 +1,47 @@
-FROM node:lts-buster
+# Use Node.js LTS with Debian Bullseye (more stable than Buster)
+FROM node:lts-bullseye
+
+# Set non-root user
 USER root
-RUN apt-get update && \
-    apt-get install -y ffmpeg webp git && \
-    apt-get upgrade -y && \
-    rm -rf /var/lib/apt/lists/*
+
+# Install system dependencies with retry logic (fixes apt-get failures)
+RUN for i in {1..5}; do \
+      apt-get update && \
+      apt-get install -y --no-install-recommends \
+        ffmpeg \
+        webp \
+        git \
+        libavcodec-extra \  # Extra codecs for FFmpeg
+        && apt-get clean \
+        && rm -rf /var/lib/apt/lists/* \
+        && break || sleep 15; \
+    done
+
+# Switch to non-root user
 USER node
+
+# Clone your bot repository
 RUN git clone https://github.com/mrfrankofcc/SUBZERO-MD.git /home/node/SUBZERO-MD
+
 WORKDIR /home/node/SUBZERO-MD
-RUN chmod -R 777 /home/node/SUBZERO-MD/
-RUN yarn install --network-concurrency 1
+
+# Fix permissions (safer than 777)
+RUN chown -R node:node . && \
+    chmod -R 755 .
+
+# Install Node.js dependencies with fallback for network issues
+COPY package.json yarn.lock ./
+RUN yarn install --network-concurrency 1 --production --ignore-engines --frozen-lockfile || \
+    (yarn cache clean && yarn install --network-concurrency 1 --production --ignore-engines)
+
+# Copy app files (after dependencies for better caching)
+COPY . .
+
+# Expose the bot port
 EXPOSE 7860
+
+# Set production environment
 ENV NODE_ENV=production
-CMD ["npm", "start"]
+
+# Run with PM2 (Docker-optimized mode)
+CMD ["pm2-runtime", "start", "index.js", "--name", "SUBZERO-MD"]

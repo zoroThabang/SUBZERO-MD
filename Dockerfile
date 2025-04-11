@@ -4,17 +4,17 @@ FROM node:lts-bullseye
 # Set non-root user
 USER root
 
-# Install system dependencies with retry logic (fixes apt-get failures)
+# Install system dependencies with retry logic
 RUN for i in {1..5}; do \
-        apt-get update && \
-        apt-get install -y --no-install-recommends \
-            ffmpeg \
-            webp \
-            git \
-            libavcodec-extra && \  # Extra codecs for FFmpeg
-        apt-get clean && \
-        rm -rf /var/lib/apt/lists/* && \
-        break || sleep 15; \
+    apt-get update && \
+    apt-get install -y --no-install-recommends \
+        ffmpeg \
+        webp \
+        git \
+        libavcodec-extra && \
+    apt-get clean && \
+    rm -rf /var/lib/apt/lists/* && \
+    break || sleep 15; \
     done
 
 # Switch to non-root user
@@ -29,12 +29,12 @@ WORKDIR /home/node/SUBZERO-MD
 RUN chown -R node:node . && \
     chmod -R 755 .
 
-# Install Node.js dependencies with fallback for network issues
+# Install Node.js dependencies
 COPY package.json yarn.lock ./
 RUN yarn install --network-concurrency 1 --production --ignore-engines --frozen-lockfile || \
     (yarn cache clean && yarn install --network-concurrency 1 --production --ignore-engines)
 
-# Copy app files (after dependencies for better caching)
+# Copy app files
 COPY . .
 
 # Expose the bot port

@@ -69,7 +69,7 @@ Dont forget to fork & star repo
   
 --- 
   > **⚠️ OPTION ONE**
-  <a href='https://subzero-docs.vercel.app' target="_blank">
+  <a href='https://subzeromd.onrender.com' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_1-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
   

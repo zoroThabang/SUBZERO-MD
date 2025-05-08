@@ -111,7 +111,7 @@ Dont forget to fork & star repo
     </tr>
   </table>
 
-  <td><a href="https://github.com/mrfrankofcc/SUBZERO-MD/archive/refs/heads/main.zip" target="_blank"><img src="https://img.shields.io/badge/bot-hosting-000000?style=for-the-badge&logo=panel-zip&logoColor=white&labelColor=000000&color=grey"/></a></td>
+  <td><a href="https://github.com/mrfrankofcc/SUBZERO-MD/archive/refs/heads/main.zip" target="_blank"><img src="https://img.shields.io/badge/Panel Zip-000000?style=for-the-badge&logo=bot hosting&logoColor=white&labelColor=000000&color=blue"/></a></td>
 </div>
 
 <div align="center">

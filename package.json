@@ -9,7 +9,7 @@
     "restart": "pm2 restart SUBZERO-MD"
   },
   "dependencies": {
-    "gifted-baileys": "^1.5.6",
+    "@whiskeysockets/baileys": "npm:@fizzxydev/baileys-pro@8.5.12",
     "@adiwajshing/keyed-db": "latest",
     "@dark-yasiya/yt-dl.js": "latest",
     "@dark-yasiya/scrap": "1.0.1",

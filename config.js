@@ -58,5 +58,5 @@ module.exports = {
     AUTO_BIO: process.env.AUTO_BIO || "false",
     WELCOME_GOODBYE: process.env.WELCOME_GOODBYE || "true",
     AMDIN_EVENTS: process.env.ADMIN_EVENTS || "true",
-    BAILEYS: process.env.BAILEYS || "gifted-baileys",  // Subzero Bot's BAILEYS
+    BAILEYS: process.env.BAILEYS || "@shizodevs/baileys",  // Subzero Bot's BAILEYS
 };

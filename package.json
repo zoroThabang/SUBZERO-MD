@@ -9,6 +9,7 @@
     "restart": "pm2 restart SUBZERO-MD"
   },
   "dependencies": {
+    "better-sqlite3": "^9.0.0",
     "@shizodevs/baileys": "*",
     "baileys-elite": "*",
     "gifted-baileys": "^1.5.7",

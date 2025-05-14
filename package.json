@@ -23,7 +23,7 @@
     "api-dylux": "1.8.5",
     "axios": "^1.2.5",
     "baileys-elite": "*",
-    "better-sqlite3": "^9.0.0",
+    "better-sqlite3": "latest",
     "btch-downloader": "^2.2.9",
     "buffer": "^6.0.3",
     "cheerio": "^1.0.0-rc.12",

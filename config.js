@@ -11,10 +11,10 @@ module.exports = {
     
     
     // ===== BOT CORE SETTINGS =====
-SESSION_ID: process.env.SESSION_ID || "",  // Your bot's session ID (keep it secure)
-PREFIX: getConfigSync("PREFIX") || ".",  // Command prefix (e.g., "., / ! * - +")
-BOT_NAME: process.env.BOT_NAME || getConfigSync("BOT_NAME") || "SUBZERO-MD",  // Bot's display name
-MODE: process.env.MODE || "public",        // Bot mode: public/private/group/inbox        // Bot mode: public/private/group/inbox
+    SESSION_ID: process.env.SESSION_ID || "",  // Your bot's session ID (keep it secure)
+    PREFIX: getConfigSync("PREFIX") || ".",  // Command prefix (e.g., "., / ! * - +")
+    BOT_NAME: process.env.BOT_NAME || getConfigSync("BOT_NAME") || "SUBZERO-MD",  // Bot's display name
+    MODE: process.env.MODE || "public",        // Bot mode: public/private/group/inbox        // Bot mode: public/private/group/inbox
     
     // ===== OWNER & DEVELOPER SETTINGS =====
     OWNER_NUMBER: process.env.OWNER_NUMBER || "263719647303",  // Owner's WhatsApp number

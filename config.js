@@ -42,7 +42,7 @@ module.exports = {
     AUTO_VOICE: process.env.AUTO_VOICE || "false",
     AUTO_RECORDING: process.env.AUTO_RECORDING || "false",
     AUTO_TYPING: process.env.AUTO_TYPING || "false",
-    BOT_IMAGE: getConfig("BOT_IMAGE") || "https://i.postimg.cc/XNTmcqZ3/subzero-menu.png",
+    BOT_IMAGE: "https://i.postimg.cc/XNTmcqZ3/subzero-menu.png",
 
     // ===== SECURITY & ANTI-FEATURES =====
     ANTI_CALL: process.env.ANTI_CALL || "true",

@@ -1,7 +1,7 @@
 // ===== MAJOR CONFIGS =====
 const fs = require('fs');
 const path = require('path');
-const { getConfig } = require("./lib/configdb");
+//const { getConfig } = require("./lib/configdb");
 if (fs.existsSync('config.env')) require('dotenv').config({ path: './config.env' });
 
 function convertToBool(text, fault = 'true') {
@@ -11,15 +11,15 @@ module.exports = {
     
     // ===== BOT CORE SETTINGS =====
     SESSION_ID: process.env.SESSION_ID || "",
-    PREFIX: getConfig("PREFIX") || ".",
-    BOT_NAME: process.env.BOT_NAME || getConfig("BOT_NAME") || "SUBZERO-MD",
-    MODE: process.env.MODE || getConfig("MODE") || "public",
+    PREFIX: process.env.PREFIX || ".",
+    BOT_NAME: process.env.BOT_NAME || "SUBZERO-MD",
+    MODE: process.env.MODE || "public",
     REPO: process.env.REPO || "https://github.com/mrfrankofcc/SUBZERO-MD",
     BAILEYS: process.env.BAILEYS || "@shizodevs/baileys",
 
     // ===== OWNER & DEVELOPER SETTINGS =====
     OWNER_NUMBER: process.env.OWNER_NUMBER || "263719647303",
-    OWNER_NAME: process.env.OWNER_NAME || getConfig("OWNER_NAME") || "Mr Frank",
+    OWNER_NAME: process.env.OWNER_NAME || "Mr Frank",
     DEV: process.env.DEV || "263719647303",
     DEVELOPER_NUMBER: '263719647303@s.whatsapp.net',
 

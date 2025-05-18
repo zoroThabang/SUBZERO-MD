@@ -15,7 +15,7 @@ module.exports = {
     BOT_NAME: process.env.BOT_NAME || "SUBZERO-MD",
     MODE: process.env.MODE || "public",
     REPO: process.env.REPO || "https://github.com/mrfrankofcc/SUBZERO-MD",
-    BAILEYS: process.env.BAILEYS || "@shizodevs/baileys",
+    BAILEYS: process.env.BAILEYS || "@whiskeysockets/baileys",
 
     // ===== OWNER & DEVELOPER SETTINGS =====
     OWNER_NUMBER: process.env.OWNER_NUMBER || "263719647303",

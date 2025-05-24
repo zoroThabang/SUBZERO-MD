@@ -24,7 +24,7 @@
     "@vitalets/google-translate-api": "^9.2.0",
     "acrcloud": "^1.4.0",
     "adm-zip": "^0.5.16",
-    "api-dylux": "1.8.5",
+    "api-dylux": "latest",
     "btch-downloader": "^2.2.9",
     "better-sqlite3": "latest",
     "buffer": "^6.0.3",

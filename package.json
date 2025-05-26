@@ -3,8 +3,6 @@
   "version": "3.8.0",
   "description": "THE BEST BOT IN THE UNIVERSE",
   "main": "index.js",
-  },
-  
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name SUBZERO-MD",
     "stop": "pm2 stop SUBZERO-MD",

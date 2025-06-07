@@ -45,6 +45,7 @@ module.exports = {
     BOT_IMAGE: getConfig("BOT_IMAGE") || "https://files.catbox.moe/qla34k.jpg",  // Bot's "alive" image
 
     // ===== SECURITY & ANTI-FEATURES =====
+    ANTI_DELETE: process.env.ANTI_DELETE || "true",
     ANTI_CALL: process.env.ANTI_CALL || "true",
     ANTI_BAD: process.env.ANTI_BAD || "false",                  // Block bad words?
     ANTI_LINK: process.env.ANTI_LINK || "true",                 // Block links in groups?

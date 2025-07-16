@@ -21,7 +21,7 @@
   <img src="https://komarev.com/ghpvc/?username=SUBZERO-MD&label=VISITORS&style=flat-square&color=00ffff" />
 </p>
 
-> **Current Bot Version `3.8.0`**  
+> **Current Bot Version `4.2.0`**  
 
 ---
 
@@ -69,14 +69,14 @@ Dont forget to fork & star repo
   
 --- 
   > **⚠️ OPTION ONE**
-  <a href='https://subzero-docs.vercel.app' target="_blank">
+  <a href='https://subzero-id.onrender.com' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_1-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
   
   <div style="height: 10px;"></div>
   
   > **⚠️ OPTION TWO**
-  <a href='https://subzeromd.onrender.com' target="_blank">
+  <a href='https://subzero-docs.vercel.app' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_2-FF00AA?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a>
   
@@ -180,7 +180,7 @@ Dont forget to fork & star repo
 
 ```diff
 + Project Status: Active
-! Version: 3.8.0 Neon Edition
+! Version: Latest Neon Edition
 # License: APACHE
 ```
 
